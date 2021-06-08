@@ -1,5 +1,4 @@
-<h1 align="center">Anon-SMS v1.4</h1>
-<p align="center">Anonymous Message Sender for Linux And Termux.</p><br>
+<h1 align="center">Anon-SMS v1.4<ign="center">Anonymous Message Sender for Linux And Termux.</p><br>
 
 ## Updates:
 **v1.0**<br>
